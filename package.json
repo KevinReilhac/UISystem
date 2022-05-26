@@ -1,0 +1,21 @@
+{
+  "name": "com.kebab.ui_system",
+  "version": "1.0.0",
+  "displayName": "UISystem",
+  "description": "Manager & base class for UI controll",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [],
+  "author": {
+    "name": "K\u00e9vin \"Kebab\" Reilhac",
+    "email": "kevin.reilhac.pro@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "dependencies": {
+    "com.kebab.custom_managers": ""
+  },
+  "samples": [
+  ],
+  "hideInEditor": false
+}
