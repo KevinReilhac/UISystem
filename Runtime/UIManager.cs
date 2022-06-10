@@ -8,7 +8,6 @@
 
 using System;
 using UnityEngine;
-using Kebab.Utils;
 using Kebab.Managers;
 using Kebab.UISystem.Utils;
 
@@ -18,7 +17,7 @@ namespace Kebab.UISystem
 	/// Manager from you can get all UI panel in the scene
 	/// </summary>
 	/// <typeparam name="UIManager"></typeparam>
-	public class UIManager : AutoInstanceManager<UIManager>
+	public class UIManager : Manager<UIManager>
 	{
 		private TypeDict<baseUIPanel> panels = new TypeDict<baseUIPanel>();
 

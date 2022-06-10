@@ -9,7 +9,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Kebab.Utils
+namespace Kebab.UISystem
 {
 	/// <summary>
 	/// base class for UI panels (managed by UIManager)
