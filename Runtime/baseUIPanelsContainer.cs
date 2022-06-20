@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Kebab.UISystem
 {
-	public class baseUIPanelContainer : baseUIPanel
+	public class baseUIPanelsContainer : baseUIPanel
 	{
 		List<baseUIPanel> subPanels = new List<baseUIPanel>();
 
