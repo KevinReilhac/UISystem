@@ -1,6 +1,6 @@
 {
   "name": "com.kebab.ui_system",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "UISystem",
   "description": "Manager & base class for UI controll",
   "documentationUrl": "https://example.com/",
@@ -15,7 +15,6 @@
   "dependencies": {
     "com.kebab.custom_managers": ""
   },
-  "samples": [
-  ],
+  "samples": [],
   "hideInEditor": false
 }
