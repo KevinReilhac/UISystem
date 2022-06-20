@@ -12,6 +12,7 @@ namespace Kebab.UISystem
 		override public void Init()
 		{
 			subPanels = gameObject.GetComponentsInChildren<baseUIPanel>(true).ToList();
+			subPanels.Remove(this);
 		}
 
 		override public void Show()
